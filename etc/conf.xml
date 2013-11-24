@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+    <about>
+        <title>KOPKAR-SisInfo CSE</title>
+        <version>
+            <major>0</major>
+            <minor>2</minor>
+            <revision>1</revision>
+        </version>
+        <author>Soni Setiawan Marta</author>
+        <email>soni.setiawan.marta@gmail.com</email>
+        <company>SONIX SYSINFO</company>
+        <description>
+            <line>Program server middle-tier antara database dengan</line>
+            <line>client pada sistem informasi Koperasi Karyawan</line>
+            <line>PT. Tidar Kerinci Agung.</line>
+        </description>
+    </about>
+    <configuration>
+        <srvhost>localhost</srvhost><srvsocket>80</srvsocket><srvurl>/KopKar</srvurl>
+        <theme>
+            <swingtheme>Nimbus</swingtheme>
+            <images>
+                <image url="/kopkarsisinfocse/app/images/back-logo.png" >back-logo</image>
+            </images>
+            <icons>
+                <icon url="/kopkarsisinfocse/app/images/bttambah.png" >bttambah</icon>
+                <icon url="/kopkarsisinfocse/app/images/btedit.png" >btedit</icon>
+            </icons>
+        </theme>
+	</configuration>
+</application>
